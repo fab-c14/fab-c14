@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### FAISAL AHMAD BHAT
+
+## Hi, i am a developer (self learned) who loves to learn more and more 
+
