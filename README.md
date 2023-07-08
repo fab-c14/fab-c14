@@ -42,7 +42,7 @@ Fab-c14@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
     <img alt="Static Badge" src="https://img.shields.io/badge/SHELL-%2523777BB4.svg?logo=linux&logoColor=black&labelColor=green&color=black">
-
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="SQL" src="https://img.shields.io/badge/C++-C_PLUS_PLUS-blue.svg?style=flat&logo=c++"></a>
 
 ### 🧰 Frameworks and Libraries
 
