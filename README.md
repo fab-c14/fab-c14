@@ -14,16 +14,16 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python |Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; Android 
+- 💻 &nbsp; Python | Java | C++ | HTML | CSS | JavaScript 
+- 🌐 &nbsp; Android | Bootstrap | Tachyons | React-Reveal
 - 🛢 &nbsp; MySQL | SQL | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | 
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Atom | Git
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator 
 
 <br>
 
-<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+[souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fab-c14&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Fabc's Github Stats">
 
 </br>
 
