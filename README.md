@@ -14,7 +14,7 @@ Hi, I'm Faisal Bhat!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+Fab-c14@github
 -------------------------
 💻 I am a self taught Full Stack Developer and a Programmer
 📚 Currently Pursuing BCA Under Cluster University Srinagar
