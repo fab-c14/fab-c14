@@ -41,17 +41,17 @@ Fab-c14@github
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/SHELL-%2523777BB4.svg?logo=linux&logoColor=black&labelColor=green&color=black">
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="SQL" src="https://img.shields.io/badge/C++-C_PLUS_PLUS-blue.svg?style=flat&logo=c++"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac"><img alt="SQL" src="https://img.shields.io/badge/C++-C_PLUS_PLUS-blue.svg?style=flat&logo=c++"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ac++"><img alt="SQL" src="https://img.shields.io/badge/C-C_Programming-blue.svg?style=flat&logo=c++"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Tachyons-Tachyons_Bootstrap-%23D00000.svg?logo=tachyons&logoColor=white"></a>
+    <a href="#"><img alt="Tachyons" src="https://img.shields.io/badge/Tachyons-Tachyons_Bootstrap-%23D00000.svg?logo=tachyons&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%23FF6F00.svg?logo=Matplotlib&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
