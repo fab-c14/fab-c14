@@ -40,34 +40,35 @@ Fab-c14@github
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/C++-C_PLUS_PLUS-blue.svg?style=flat&logo=c++">
-    <img alt="SQL" src="https://img.shields.io/badge/C++-C_PLUS_PLUS-blue.svg?style=flat&logo=c++">
-    <img alt="SQL" src="https://img.shields.io/badge/C-C_Programming-blue.svg?style=flat&logo=c++">
+   <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
+   <img alt="SQL" src="https://img.shields.io/badge/C++-C_PLUS_PLUS-blue.svg?style=flat&logo=c++">
+   <img alt="C" src="https://img.shields.io/badge/C_Programming-00599C?style=for-the-badge&logo=c&logoColor=white" />
+   <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+   
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="#"><img alt="Tachyons" src="https://img.shields.io/badge/Tachyons-Tachyons_Bootstrap-%23D00000.svg?logo=tachyons&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%23FF6F00.svg?logo=Matplotlib&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-
+    <img alt="Tachyons" src="https://img.shields.io/badge/Tachyons-Tachyons_Bootstrap-%23D00000.svg?logo=tachyons&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib%20-%23FF6F00.svg?logo=Matplotlib&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+    <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 ### 🗄️ Databases 
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white">
 <!--     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> -->
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostGreSql" src ="https://img.shields.io/badge/PostGreSql%23316192.svg?logo=postgresql&logoColor=white"></a>
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="PostGreSql" src ="https://img.shields.io/badge/PostGreSql%23316192.svg?logo=postgresql&logoColor=white">
 <!--     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a> -->
-</p>
+</p> 
 
 ### 💻 Software and Tools
 
