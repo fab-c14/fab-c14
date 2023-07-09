@@ -138,5 +138,7 @@ You can hire me as a freelancer on <a href="https://www.freelancer.com/u/Faisal0
   </td>
   </tr>
 </table>
+<hr/>
+ [https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white]
 
 Thanks To VishalMourya For This Awsome ...
