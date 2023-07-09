@@ -123,7 +123,7 @@ Fab-c14@github
 
 If you have any questions about front-end web development, feel free to <a href="mailto:plesim18@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.freelancer.com/u/Faisal0093">Freelancer</a> or <a href="https://linkedin.com/in/faisal-ahmad-bhat-abba29229">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.freelancer.com/u/Faisal0093">Freelancer</a> or <a href="https://www.linkedin.com/in/faisal-ahmad-bhat-aaba29229">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
