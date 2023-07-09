@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Faisal Bhat!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="	https://img.shields.io/github/watchers/{fab-c14}/{fab-c14}.svg" align='right' alt="Faisal Bhat" />
+  <img src="https://komarev.com/ghpvc/?username=fab-c14&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Faisal_Bhat" />
  
 <br/>
 
