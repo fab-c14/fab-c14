@@ -7,8 +7,7 @@ Hi, I'm Faisal Bhat!
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?      lines=Computer+Science+Student;Full+Stack+Web+Developer;Programmer;_DS%20|%20AI%20|%20ML%20|+Simple+But+Different;Always%20learning%20new%20things&center=true&width=380&height=45"> </a>
+    <img src="https://readme-typing-svg.herokuapp.com?      lines=Computer+Science+Student;Full+Stack+Web+Developer;Programmer;_DS%20|%20AI%20|%20ML%20|+Simple+But+Different;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
 <img align="left" src="https://picsum.photos/seed/picsum/200/300" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
