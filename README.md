@@ -104,8 +104,8 @@ Fab-c14@github
 
 |                                                                     Fab's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)              | 
-| ![Fab-c14's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fab-c14&theme=algolia)                          | 
+|  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)              | 
+|  ![Fab-c14's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fab-c14&theme=algolia)                          | 
     
 
 |                                                                                                      Fab-c14's Stars                                                                                                       |                                                           Top Languages                                                           |      
