@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Faisal Bhat!
+Hi, I'm Faisal Bhat !
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
   <img src="https://komarev.com/ghpvc/?username=fab-c14&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="Faisal Bhat" />
 <!--   <img src="https://gpvc.arturio.dev/fab-c14" alt="Profile views" align='right'/> <a href="https://github.com/fab-c14/fab-c14/"> </a>  -->
@@ -101,14 +101,14 @@ Fab-c14@github
 
 ## GitHub Stats
 
-|            Fab's Stats                                      |                     streak                                  |
-|:-------------------------------------------------------:|:-----------------------------------------------------------:|
-|  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   |  ![Fab-c14's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fab-c14&theme=algolia)                 | 
+ |            Fab's Stats                                      |                     streak                                  |
+ |:-------------------------------------------------------:|:-----------------------------------------------------------:|
+ |  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   |  ![Fab-c14's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fab- c14&theme=algolia)                 | 
     
 
   |                   Fab-c14's Stars                                           |                                               Top Languages                                  | 
-|:-------------------------------------------------------------------:|:--------------------------------------------------------------:|
-  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&langs_count=8&theme=algolia&layout=compact) |  
+ |:-------------------------------------------------------------------:|:--------------------------------------------------------------:|
+ | ![Github Stars](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&langs_count=8&theme=algolia&layout=compact) |  
 
 
 
