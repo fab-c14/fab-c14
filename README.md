@@ -103,7 +103,8 @@ Fab-c14@github
 
  |            Fab's Stats                                      |                  Top Languages                           |
  |:-------------------------------------------------------:|:-----------------------------------------------------------:|
- |  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&layout=grid) |
+ |  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&layout=compact)
+) |
     
 
 
