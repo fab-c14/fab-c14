@@ -103,7 +103,7 @@ Fab-c14@github
 
  |            Fab's Stats                                      |                     streak                                  |
  |:-------------------------------------------------------:|:-----------------------------------------------------------:|
- |  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_width=400)] | 
+ |  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   |  |
     
 
 
