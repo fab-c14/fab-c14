@@ -109,7 +109,7 @@ Fab-c14@github
 
   |                   Fab-c14's Stars                                   |                  Top Languages                                 | 
   |:-------------------------------------------------------------------:|:--------------------------------------------------------------:|
-  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)  |  ![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=fab-c14&theme=transparent&hide_border=true&border_radius=4.8&date_format=M%20j%5B%2C%20Y%5D&card_width=400)   |  
+  | ![Github Stars](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)  |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |
 
 
 
