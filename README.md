@@ -107,10 +107,10 @@ Fab-c14@github
     
 
 
-  |                   Fab-c14's Stars                                   |                  TGithub Streak                                | 
+  |                   Fab-c14's Stars                                       |                  Github Streak                                | 
   |:-------------------------------------------------------------------:|:--------------------------------------------------------------:|
-  |             |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |
-
+  |                                |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |
+ 
 
 
 
