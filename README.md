@@ -107,9 +107,9 @@ Fab-c14@github
     
 
 
-  |                   &nbsp;&nbsp;&nbsp;                                     |                  Github Streak                                |  &nbsp;&nbsp;&nbsp; |
+  |                  Udating...                               |                  Github Streak                                |   Updating |
   |:-------------------------------------------------------------------:|:--------------------------------------:|:--------------------------------:|
-  |                                |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) | |
+  |                                |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |                        |
  
 
 
