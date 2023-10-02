@@ -107,7 +107,7 @@ Fab-c14@github
     
 
 
-  |                  Udating...                               |                  Github Streak                                |   Updating |
+  |                  Upating...                               |                  Github Streak                                |  Upating... |
   |:-------------------------------------------------------------------:|:--------------------------------------:|:--------------------------------:|
   |                                |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |                        |
  
