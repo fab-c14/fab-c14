@@ -1,12 +1,12 @@
 <h1 align="center">
 Hi,  I'm Faisal Bhat!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-  <img src="https://komarev.com/ghpvc/?username=fab-c14&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="FaisalBhat" />
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1> -->
+<!--   <img src="https://komarev.com/ghpvc/?username=fab-c14&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="FaisalBhat" /> -->
 <!--   <img src="https://gpvc.arturio.dev/fab-c14" alt="Profile views" align='right'/> <a href="https://github.com/fab-c14/fab-c14/"> </a>  -->
  
 <br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;_+_+_+Studying+At+Cluster+University+Srinagar;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
