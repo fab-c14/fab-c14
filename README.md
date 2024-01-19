@@ -89,25 +89,16 @@ Fab-c14@github
 </p>
 
 <p>
-<!--     <a href="#"><img alt="A Laptop" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-### 👨🏽‍💻 Workspace
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> -->
-</p>
 
 
 ## GitHub Stats
+| Fab's Stats                                              | Top Languages                                          |
+|:-------------------------------------------------------:|:-------------------------------------------------------:|
+| ![Fab-c14's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia) | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&layout=compact) |
 
- |            Fab's Stats                                      |                  Top Languages                           |
- |:-------------------------------------------------------:|:-----------------------------------------------------------:|
- |  ![Fab-c14's github stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia)   | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&layout=compact)    |
-    
-
-
-  |                  Updating...                               |                  Github Streak                                |  Updating... |
-  |:-------------------------------------------------------------------:|:--------------------------------------:|:--------------------------------:|
-  |                                |  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |                        |
- 
-
+| GitHub Streak                                           |
+|:-------------------------------------------------------:|
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent)](https://git.io/streak-stats) |
 
 
 <table style="border: none">
