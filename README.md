@@ -40,9 +40,9 @@ Fab-c14@github
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white">
-  <img alt="CPP" src="https://img.shields.io/badge/CPP%20-%23025E8C.svg?logo=cpp&amp;logoColor=black">
-  <img alt="C" src="https://img.shields.io/badge/C_Programming-00599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/C%20Programming%20-%23025E8C.svg?logo=c&logoColor=white">
+  <img alt="CPP" src="https://img.shields.io/badge/C++%20-%23025E8C.svg?logo=cplusplus&logoColor=white">
+  <img alt="Sell Script" src="https://img.shields.io/badge/C++%20-%23025E8C.svg?logo=cplusplus&logoColor=white">
    
 
 ### 🧰 Frameworks and Libraries
