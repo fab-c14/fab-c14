@@ -56,7 +56,7 @@ Hi,  I'm Faisal Bhat!
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23FF6F00.svg?style=for-the-badge&logo=Matplotlib&logoColor=white&color=orange">
   <img alt="React" src="https://img.shields.io/badge/React-%2020232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB&color=blueviolet">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%20563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=purple">
-  <img alt="Django" src="https://img.shields.io/badge/Django-%20092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=green">
+<!--   <img alt="Django" src="https://img.shields.io/badge/Django-%20092E20.svg?style=for-the-badge&logo=django&logoColor=white&color=green"> -->
   <img alt="Jquery" src="https://img.shields.io/badge/jQuery-%200769AD.svg?style=for-the-badge&logo=jquery&logoColor=white&color=yellow">
   <img alt="React Hooks" src="https://img.shields.io/badge/React_Hooks-%2320232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB&color=teal">
   <img alt="Redux" src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white&color=navy">  
