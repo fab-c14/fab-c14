@@ -15,10 +15,11 @@ Hi,  I'm Faisal Bhat!
   Fab-c14@github
   -------------------------
   💻 I am a self taught Full Stack Developer and a Programmer
+  ✅ Completed MERN Stack + Machine Learning
   📚 Currently Pursuing BCA Under Cluster University Srinagar
   📝 I have a strong interest in Data Science and Artificial Intelligence
-  🔭 Working on MERN STACK
-  🌟 Main languages: Python, JavaScript
+  🔭 Working on Deep Learning (Neural Networking) + Problem Solving 
+  🌟 Main languages: Python, JavaScript, Web Development, Data Science
   🚩 Interested in Full Stack Machine Learning Application development
   💖 In a complicated relationship with Ethical Hacking
   🎵 Love metal, lofi, jazz and soft music
@@ -85,6 +86,7 @@ Hi,  I'm Faisal Bhat!
   <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
   <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
   <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+   [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 </p>
 
 <p>
