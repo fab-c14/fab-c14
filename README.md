@@ -15,7 +15,7 @@ Hi,  I'm Faisal Bhat!
   Fab-c14@github
   -------------------------
   💻 I am a self taught Full Stack Developer and a Programmer
-  ✅ Completed MERN Stack + Machine Learning
+  ✅ Completed MERN Stack + Data Science (ML)
   📚 Currently Pursuing BCA Under Cluster University Srinagar
   📝 I have a strong interest in Data Science and Artificial Intelligence
   🔭 Working on Deep Learning (Neural Networking) + Problem Solving 
