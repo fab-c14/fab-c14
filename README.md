@@ -7,7 +7,7 @@ Hi, I'm Faisal Bhat!
 
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;_+_+_+Studying+At+Cluster+University+Srinagar;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;_+_+_+Studying+At+University+Of+Kashmir;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 <hr />
 
@@ -15,8 +15,9 @@ Hi, I'm Faisal Bhat!
   Fab-c14@github
   -------------------------
   💻 I am a self taught Full Stack Developer and a Programmer
-  ✅ Completed MERN Stack + Data Science (ML)
-  📚 Currently Pursuing BCA Under Cluster University Srinagar
+  ✅ Completed MERN Stack
+  ✅ Completed BCA Under Cluster University Srinagar
+  📚 Pursing Masters At Kashmir University (UOK)
   📝 I have a strong interest in Data Science and Artificial Intelligence
   🔭 Working on Deep Learning (Neural Networking) + Problem Solving 
   🌟 Main languages: Python, JavaScript, Web Development, Data Science
