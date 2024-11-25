@@ -13,7 +13,7 @@ Hi, I'm Faisal Bhat!
 
 ```
   Fab-c14@github
-  -------------------------
+  --------------------------------------------------------------
   💻 I am a self taught Full Stack Developer and a Programmer
   ✅ Completed MERN Stack
   ✅ Completed BCA Under Cluster University Srinagar
