@@ -96,9 +96,9 @@ Hi, I'm Faisal Bhat!
 ## GitHub Stats
 <div align="center">
 
-| Fab's Stats                                              | Top Languages                                          | GitHub Streak                                           |
-|:-------------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------------:|
-| ![Fab-c14's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia) | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent&exclude_days=Sun%2CSat)(https://git.io/streak-stats)] |
+| Fab's Stats                                                                                             | Top Languages                                                                                             | GitHub Streak                                                                                                                                                               |
+| :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Fab-c14's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fab-c14&show_icons=true&theme=algolia) | ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fab-c14&layout=compact) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fab-c14&theme=transparent&exclude_days=Sun%2CSat)](https://git.io/streak-stats) |
 
 </div>
 
