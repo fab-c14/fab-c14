@@ -103,6 +103,39 @@ Hi, I'm Faisal Bhat!
 </div>
 
 
+<div>
+
+```mermaid
+mindmap
+    root((2025 Goals))
+        Website
+            Modern UI
+                Responsive
+                Interactive
+            Portfolio
+                Projects
+                Skills
+            SEO & Analytics
+        
+        Blog
+            Tech Articles
+            Video Tutorials
+            Community Forum
+        
+        Internkaar
+            Platform Dev
+            Beta Testing
+            Official Launch
+        
+        Skills
+            Frontend Dev
+            Backend Dev
+            Ds and Ai
+            Cloud & DevOps
+  ```
+  
+</div>
+
 
 <table style="border: none">
   <tr>
@@ -129,6 +162,9 @@ You can hire me as a freelancer on <a href="https://www.freelancer.com/u/Faisal0
   </tr>
 </table>
 <hr/>
+
+
+
 <div align="center">
 
 <a href="https://instagram.com/_fabc14?igshid=ZDc4ODBmNjlmNQ=="><img alt="INSTAGRAM" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -137,5 +173,6 @@ You can hire me as a freelancer on <a href="https://www.freelancer.com/u/Faisal0
 <a href="https://github.com/sponsors/fab-c14"><img alt="SPONSOR" src="https://img.shields.io/badge/Sponsor-555?style=for-the-badge&logo=github-sponsors&logoColor=white"/></a>
 
 </div>
+
 
 <hr />
