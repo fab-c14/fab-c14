@@ -106,7 +106,6 @@ Hi, I'm Faisal Bhat!
 <div>
 
 ```mermaid
-#2025 Goals
 mindmap
     root((2025 Goals))
         Website
