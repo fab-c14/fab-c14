@@ -115,7 +115,7 @@ mindmap
             Portfolio
                 Projects
                 Skills
-            SEO & Analytics
+            SEO + Analytics
         
         Blog
             Tech Articles
@@ -131,7 +131,7 @@ mindmap
             Frontend Dev
             Backend Dev
             Ds and Ai
-            Cloud & DevOps
+            Cloud + DevOps
   ```
   
 </div>
