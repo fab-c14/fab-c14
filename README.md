@@ -122,15 +122,11 @@ mindmap
             Video Tutorials
             Community Forum
         
-        Internkaar
-            Platform Dev
-            Beta Testing
-            Official Launch
-        
         Skills
             Frontend Dev
             Backend Dev
             Ds and Ai
+
             Cloud + DevOps
   ```
   
