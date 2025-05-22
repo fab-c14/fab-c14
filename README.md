@@ -94,15 +94,16 @@ Hi, I'm Faisal Bhat!
 ---
 
 
+## 🌟 Why I'm Your Next Great Hire
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22E1EE&center=true&vCenter=true&width=435&lines=🚀+Ready+to+Join+Your+Team%3F;Let%27s+build+the+future+together!;I+turn+ideas+into+impact.">
-
-<br/>
-
-<img src="https://svgshare.com/i/1634w.svg" width="400" alt="Let's Build Something Great Together" />
+<!-- Animated badge headline -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2500&pause=700&color=1DE9B6&center=true&vCenter=true&width=600&lines=I+deliver+results%2C+not+just+code!;From+idea+to+launch%2C+I+make+it+happen.;Growth-minded%2C+AI+driven%2C+team+energizer.;Ready+to+join+your+mission+in+2025!">
 
 </div>
+
+<br/>
 
 ---
 
